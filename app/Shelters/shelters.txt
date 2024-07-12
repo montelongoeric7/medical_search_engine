@@ -1,0 +1,116 @@
+[
+    {
+        "program_name": "CES Crisis Housing Program",
+        "status": "Adults program - Open",
+        "address": "1718 W Vernon Ave, Los Angeles",
+        "organization": "First To Serve Inc.",
+        "contact_person": "Margarita Vasquez",
+        "phone": "(323) 903-5195",
+        "SPA": 6,
+        "SD": 2,
+        "CD": 8,
+        "division": "77th Street"
+    },
+    {
+        "program_name": "CES Crisis Housing Program",
+        "status": "Adults program - Open",
+        "address": "733 Hindry Ave, Inglewood",
+        "organization": "United States Veterans Initiative, Inc.",
+        "contact_person": "Kevin Kincey",
+        "phone": "(310) 863-5837",
+        "SPA": 8,
+        "SD": 2
+    },
+    {
+        "program_name": "CES Crisis Housing Program",
+        "status": "Adults program - Open",
+        "address": "517 San Julian St, Los Angeles",
+        "organization": "SRO Housing Corporation",
+        "contact_person": "Denice Walker",
+        "phone": "(213) 229-9678",
+        "SPA": 4,
+        "SD": 2,
+        "CD": 14,
+        "division": "Central"
+    },
+    {
+        "program_name": "CES Crisis Housing Program",
+        "status": "Adults program - Open",
+        "address": "566 S San Pedro St, Los Angeles",
+        "organization": "Weingart Center Association",
+        "contact_person": "Art Burris",
+        "phone": "(213) 689-2118",
+        "SPA": 4,
+        "SD": 2,
+        "CD": 14,
+        "division": "Central"
+    },
+    {
+        "program_name": "CES Crisis Housing Program",
+        "status": "Adults program - Open",
+        "address": "601 San Pedro St, Los Angeles",
+        "organization": "The Midnight Mission",
+        "contact_person": "Larry Love",
+        "phone": "(213) 624-9258",
+        "SPA": 4,
+        "SD": 2,
+        "CD": 14,
+        "division": "Central"
+    },
+    {
+        "program_name": "CES Crisis Housing Program",
+        "status": "Adults program - Open",
+        "address": "1032 W 18th St, Los Angeles",
+        "organization": "National Health Foundation",
+        "contact_person": "Victoria Contreras",
+        "phone": "(866) 643-7284",
+        "SPA": 4,
+        "SD": 1,
+        "CD": 1,
+        "division": "Rampart"
+    },
+    {
+        "program_name": "CES Crisis Housing Program Adult Center",
+        "status": "Adults program - Open",
+        "address": "412 S Raymond Ave, Pasadena",
+        "organization": "Union Station Homeless Services",
+        "contact_person": "Barbara Burns",
+        "phone": "(626) 791-6613",
+        "SPA": 3,
+        "SD": 5
+    },
+    {
+        "program_name": "CES Crisis Housing Program Bell",
+        "status": "Adults program - Open",
+        "address": "5600 Rickenbacker Rd, Bell",
+        "organization": "The Salvation Army",
+        "contact_person": "Fraces Delgado",
+        "phone": "(323) 263-1206",
+        "SPA": 7,
+        "SD": 1
+    },
+    {
+        "program_name": "CES Crisis Housing Program C4L",
+        "status": "Adults program - Open",
+        "address": "8770 S Broadway, Los Angeles",
+        "organization": "Volunteers of America of Los Angeles",
+        "contact_person": "Caleb Anderson",
+        "phone": "(213) 393-6942",
+        "SPA": 6,
+        "SD": 2,
+        "CD": 8,
+        "division": "Southeast"
+    },
+    {
+        "program_name": "CES Crisis Housing Program CBH",
+        "status": "Adults program - Open",
+        "address": "5701 S Western Ave, Los Angeles",
+        "organization": "Testimonial Community Love Center",
+        "contact_person": "Melvin Wafer",
+        "phone": "(323) 291-6753",
+        "SPA": 6,
+        "SD": 2,
+        "CD": 8,
+        "division": "77th Street"
+    }
+]

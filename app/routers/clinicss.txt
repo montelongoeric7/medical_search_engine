@@ -1,0 +1,20 @@
+1. Green Valley Clinic: General Checkup, Pediatrics, Cardiology, Orthopedics, Dermatology
+2. Healthy Life Clinic: General Medicine, Immunizations, Lab Tests, X-Ray, Family Planning
+3. Wellness Center: Physical Therapy, Nutrition, Mental Health, Dental, Eye Care
+4. City Health Clinic: General Checkup, Women's Health, Pediatrics, Vaccinations, Blood Tests
+5. Downtown Clinic: General Medicine, Urgent Care, X-Ray, Blood Tests, Immunizations
+6. Community Health: Mental Health, Pediatrics, Nutrition, Physical Therapy, Dental
+7. Family Health Clinic: General Medicine, Pediatrics, Women's Health, Vaccinations, Eye Care
+8. Care Center: General Checkup, Lab Tests, Immunizations, Physical Therapy, Dental
+9. Hope Clinic: General Medicine, Pediatrics, X-Ray, Blood Tests, Women's Health
+10. Health First: General Checkup, Vaccinations, Blood Tests, Dental, Eye Care
+11. Sunshine Clinic: General Medicine, Lab Tests, Immunizations, Physical Therapy, Pediatrics
+12. Bright Health: General Checkup, Women's Health, Vaccinations, Dental, Eye Care
+13. Healthy Living: General Medicine, Pediatrics, Mental Health, Physical Therapy, Nutrition
+14. Prime Health: General Checkup, Blood Tests, X-Ray, Immunizations, Family Planning
+15. Urban Health: General Medicine, Pediatrics, Women's Health, Dental, Eye Care
+16. Central Clinic: General Checkup, Lab Tests, Vaccinations, Physical Therapy, Pediatrics
+17. Harmony Health: General Medicine, Women's Health, Nutrition, Dental, Mental Health
+18. Vital Clinic: General Checkup, Pediatrics, Immunizations, Blood Tests, Physical Therapy
+19. Neighborhood Health: General Medicine, Women's Health, Eye Care, Dental, Pediatrics
+20. Life Care Clinic: General Checkup, Lab Tests, Physical Therapy, Nutrition, Women's Health
